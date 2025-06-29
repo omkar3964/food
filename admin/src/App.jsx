@@ -11,7 +11,7 @@ function App() {
 
   return (
 
-    < div >
+    <div div >
       <ToastContainer />
       <Navbar />
       <hr />
@@ -25,7 +25,7 @@ function App() {
       </div>
 
 
-    </>
+    </div>
   )
 }
 
